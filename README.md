@@ -1,3 +1,18 @@
+# Create Python virtual environment
+In server, run: py -3 -m venv .venv
+
+# Activate virtual environment
+In server, run: .venv\Scripts\activate
+
+# Install Flask
+In server, run: pip install Flask
+
+# Run Python server:
+In server, run: python server.py
+
+# Website for additional instructions
+[Installation](https://flask.palletsprojects.com/en/2.3.x/installation/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
