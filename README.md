@@ -1,8 +1,9 @@
 # Create Python virtual environment
 In server, run: py -3 -m venv .venv
 
-# Activate virtual environment
+# Activate/Deactivate virtual environment
 In server, run: .venv\Scripts\activate
+In server, run: deactivate
 
 # Install Flask
 In server, run: pip install Flask
